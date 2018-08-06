@@ -21,5 +21,20 @@ toString is an operator:
 To study primitive data types.
 
 ## Study Snippet
-[My Repl.it link](https://repl.it/@prachimehta1214/HalfIntentWeb)
+```Javascript
+typeof (typeof Number(void Boolean(null))).toString();
+    // s0: (Null, null)
+    Boolean(null);
+    // s1: (Boolean, false)
+    void false;
+    // s2: (Undefined, undefined)
+    Number(undefined);
+    // s3: (Number, NaN)
+    (typeof NaN);
+    // s4: (String, "number")
+    ("number").toString();
+    // s5: (String, "number")
+    typeof "number";
+    // s6: (String, "string")
+    ```
 
