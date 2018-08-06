@@ -36,6 +36,29 @@ typeof (typeof Number(void Boolean(null))).toString();
     // s6: (String, "string")
  ```
  
+ ## Exercises
+* ```Javascript
+typeof (typeof Number(void Boolean(null))).toString();
+    void false;
+    (typeof NaN);
+    Boolean(null);
+    typeof "number";
+    Number(undefined);
+    ("number").toString();
+ ```
+ * ```Javascript
+  // s0: (Null, null)
+
+    // s1: (Boolean, false)
+
+    // s2: (Undefined, undefined)
+
+    // s3: (Number, NaN)
+
+    // s4: (String, "number")
+
+    // s5: (String, "number")
+ ```
  ## Helpful Links
  
  * [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)  
