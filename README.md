@@ -37,7 +37,7 @@ typeof (typeof Number(void Boolean(null))).toString();
  ```
  
  ## Exercises
-* 
+* 1: Re-shuffle to create the same output:  
 ```Javascript
     typeof (typeof Number(void Boolean(null))).toString();
     void false;
@@ -47,7 +47,7 @@ typeof (typeof Number(void Boolean(null))).toString();
     Number(undefined);
     ("number").toString();
  ```
-* 
+* 2: Create the code using states:  
 ```Javascript
   // s0: (Null, null)
 
