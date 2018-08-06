@@ -1,5 +1,5 @@
 # Primitive Type Snippet1 By Evan
-JS Data Types: Primitives
+**JS Data Types: Primitives**
 ___
 
 Undefined: undefined <Undefined can happen as an error also>
