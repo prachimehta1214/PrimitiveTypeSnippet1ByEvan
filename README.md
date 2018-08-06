@@ -1,6 +1,5 @@
 # Primitive Data Type
-## JS Data Types: Primitives
-___
+## JS Data Types: Primitives  
 The latest ECMAScript standard defines 6 primitive data types:
 
 * **Boolean:** Boolean represents a logical entity and can have two values: true, and false.
@@ -35,4 +34,6 @@ typeof (typeof Number(void Boolean(null))).toString();
     // s5: (String, "number")
     typeof "number";
     // s6: (String, "string")
+    
+ ## Helpful Links
 
