@@ -1,8 +1,6 @@
-# PrimitiveTypeSnippet1ByEvan
+# Primitive Type Snippet1 By Evan
 Snippet Created by Evan for Day 1
 
-## Learning Objective
-To study primitive data types.
 JS Data Types: Primitives
 
 Undefined: undefined <Undefined can happen as an error also>
@@ -20,7 +18,9 @@ Nothing can be converted to NULL
 TypeOf is an operator: 
 toString is an operator:
 
+## Learning Objective
+To study primitive data types.
+
 ## Study Snippet
 [My Repl.it link](https://repl.it/@colevandersWands/primitive-types)
 
-## Helpful Links
