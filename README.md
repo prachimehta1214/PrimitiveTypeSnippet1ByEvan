@@ -46,7 +46,7 @@ typeof (typeof Number(void Boolean(null))).toString();
     Number(undefined);
     ("number").toString();
  ```
- * ```Javascript
+* ```Javascript
   // s0: (Null, null)
 
     // s1: (Boolean, false)
@@ -58,7 +58,7 @@ typeof (typeof Number(void Boolean(null))).toString();
     // s4: (String, "number")
 
     // s5: (String, "number")
- ```
+   ```
  ## Helpful Links
  
  * [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)  
