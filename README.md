@@ -3,17 +3,13 @@
 ___
 The latest ECMAScript standard defines 6 primitive data types:
 
-**Boolean:**
-**Null:**
-**Undefined:**
-**Number:**
-**String:**
+**Boolean:** Boolean represents a logical entity and can have two values: true, and false.
+**Null:** The Null type has exactly one value: null. <Never happens on its own, you intentionally set it to null>
+**Undefined:** A variable that has not been assigned a value has the value undefined.
+**Number:** [0 - 9], . ,  any combination, NaN, Inf
+**String:** anything
 **Symbol (new in ECMAScript 2015):**
-Undefined: undefined <Undefined can happen as an error also>
-Null: No Value represented by NULL <Never happens on its own, you intentionally set it to null>
-Strings: “anything"
-Numbers: [0 - 9], . ,  any combination, NaN, Inf
-Boolean: True or False
+
 
 
 Anything followed by VOID turns it to Undefined
