@@ -38,7 +38,7 @@ typeof (typeof Number(void Boolean(null))).toString();
  
  ## Exercises
 * ```Javascript
-typeof (typeof Number(void Boolean(null))).toString();
+    typeof (typeof Number(void Boolean(null))).toString();
     void false;
     (typeof NaN);
     Boolean(null);
