@@ -39,5 +39,5 @@ typeof (typeof Number(void Boolean(null))).toString();
  ## Helpful Links
  
  * [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)  
- • [W3Schools](https://www.w3schools.com/js/js_datatypes.asp)
+ * [W3Schools](https://www.w3schools.com/js/js_datatypes.asp)
 
