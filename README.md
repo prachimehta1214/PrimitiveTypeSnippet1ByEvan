@@ -5,4 +5,4 @@ Snippet Created by Evan for Day 1
 To study primitive data types
 
 ## Study Snippet
-(https://repl.it/@colevandersWands/primitive-types)
+https://repl.it/@colevandersWands/primitive-types
