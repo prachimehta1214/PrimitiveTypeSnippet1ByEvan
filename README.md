@@ -11,10 +11,10 @@ The latest ECMAScript standard defines 6 primitive data types:
 * **Symbol (new in ECMAScript 2015):**
 
 
-*Anything followed by VOID turns it to Undefined*
-*Nothing can be converted to NULL*
-*TypeOf is an operator*
-*toString is an operator*
+*Anything followed by VOID turns it to Undefined*  
+*Nothing can be converted to NULL*  
+*TypeOf is an operator*  
+*toString is an operator*  
 
 ## Learning Objective
 To study primitive data types.
