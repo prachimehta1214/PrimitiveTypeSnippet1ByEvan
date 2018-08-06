@@ -1,4 +1,4 @@
-# Primitive Type Snippet1 By Evan
+# Primitive Data Type
 **JS Data Types: Primitives**
 ___
 The latest ECMAScript standard defines 6 primitive data types:
