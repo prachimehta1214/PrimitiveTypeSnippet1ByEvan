@@ -39,5 +39,4 @@ typeof (typeof Number(void Boolean(null))).toString();
     // s5: (String, "number")
     typeof "number";
     // s6: (String, "string")
-    ```
 
