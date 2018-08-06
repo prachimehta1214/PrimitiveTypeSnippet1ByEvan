@@ -1,7 +1,6 @@
 # Primitive Type Snippet1 By Evan
-Snippet Created by Evan for Day 1
-
 JS Data Types: Primitives
+___
 
 Undefined: undefined <Undefined can happen as an error also>
 Null: No Value represented by NULL <Never happens on its own, you intentionally set it to null>
